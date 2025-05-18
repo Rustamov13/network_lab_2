@@ -1,4 +1,4 @@
-# network_lab_2
+# Network_Lab_2
 
 ## List IPv4 Interfaces and MTU Values
 
